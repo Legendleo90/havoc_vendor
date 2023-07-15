@@ -111,6 +111,10 @@ TARGET_SCREEN_HEIGHT ?= 1920
 PRODUCT_PACKAGES += \
     bootanimation.zip
 
+# GameSpace
+PRODUCT_PACKAGES += \
+    GameSpace
+
 # Build Manifest
 PRODUCT_PACKAGES += \
     build-manifest
